@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="flanagan">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Faculdade/CloudSim_DVFS/CloudSim_DVFS/src/modules/cloudsim/lib/flanagan.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/Faculdade/CloudSim_DVFS/CloudSim_DVFS/src/modules/cloudsim/lib/flanagan.jar!/" />
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
